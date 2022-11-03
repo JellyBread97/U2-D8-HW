@@ -13,6 +13,14 @@ body {
   top: 4%;
 }
 
+.nav-link {
+  color: black;
+}
+
+.navbar-brand {
+  color: black;
+}
+
 .twothirds {
   background-position: center;
   background-image: url("https://www.worlds50bestbars.com/filestore/jpg/Alquimico%20(2).jpg");
